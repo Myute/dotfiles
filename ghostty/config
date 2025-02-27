@@ -14,7 +14,7 @@ gtk-wide-tabs = false
 # window decoration: none | auto | client | server
 window-decoration = auto
 # hide macos decorations without losing rounded edges
-macos-titlebar-style = hidden
+# macos-titlebar-style = hidden
 # shader
 custom-shader = "~/.config/ghostty/shaders/bloom.glsl"
 # theme
