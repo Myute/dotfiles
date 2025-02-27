@@ -1,0 +1,21 @@
+# Hotkeys
+
+
+# Appearance
+# subtitle on ghostty terminal
+# valid options are false | working-directory
+window-subtitle = working-directory
+# use ghostty theme instead of system
+window-theme = ghostty
+# headerbar separator
+adw-toolbar-style = flat
+# tab header width
+gtk-wide-tabs = false
+# window decoration: none | auto | client | server
+window-decoration = auto
+# hide macos decorations without losing rounded edges
+macos-titlebar-style = hidden
+# shader
+custom-shader = "~/.config/ghostty/shaders/bloom.glsl"
+# theme
+theme = catpuccin-mocha.conf
